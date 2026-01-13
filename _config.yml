@@ -19,6 +19,7 @@ email: millie@milliedavidson.com
 description: >- # this means to ignore newlines until "baseurl:"
   Millie Davidson
   Programming & Music
+  Many fingers, many pies
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://milliedavidson.com"
 github_username: milliedavidson

@@ -1,4 +1,3 @@
-## Website currently under construction 🏗️
+# GitHub Pages hosted website for Millie Davidson
 
-It will be back soon!
- 
+## 
